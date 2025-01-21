@@ -1,0 +1,9 @@
+llama-index==0.12.8
+pinecone==5.4.2
+python-dotenv==1.0.1
+llama-index-vector-stores-pinecone==0.4.2
+llama-index-llms-groq
+pymongo[srv]==3.10
+streamlit==1.41.1
+
+
